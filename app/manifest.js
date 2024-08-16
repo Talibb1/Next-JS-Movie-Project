@@ -1,7 +1,7 @@
 export default function manifest() {
     return {
-        "name": "MoviesPrix",
-        "short_name": "MoviesPrix",
+        "name": "Movies",
+        "short_name": "Movies",
         "theme_color": "#21daa2",
         "background_color": "#1c1c1c",
         "display": "standalone",

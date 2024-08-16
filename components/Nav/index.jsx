@@ -51,7 +51,7 @@ export default function Nav() {
     <nav className="NavBar">
       <div className="logo">
         {/* <RiMovie2Line /> */}
-        <p>MoviesPrix</p>
+        <p>Movies</p>
       </div>
       <div className="linksContainer">
         {
@@ -68,7 +68,7 @@ export default function Nav() {
                 }
 
         <a
-          href=""
+          href="https://github.com/Talibb1/Next-JS-Movie-Project"
           className="source"
         >
           <span className="link__icon"><RiGithubFill /></span>

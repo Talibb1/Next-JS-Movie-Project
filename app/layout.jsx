@@ -5,15 +5,16 @@ import ScrollTopBtn from '../components/ScrollTopBtn';
 
 export const metadata = {
     title: {
-        template: '%s | MoviesPrix',
-        default: 'MoviesPrix',
+        template: '%s | Movies',
+        default: 'Movies',
     },
-    description: 'MoviesPrix is a movie website where you can find all the latest movies and tv shows',
+    description: 'Movies is a movie website where you can find all the latest movies and tv shows',
 
     openGraph: {
         type: 'website',
         locale: 'en_US',
-        site_name: 'MoviesPrix',
+        url: 'https://next-js-movie-project-flame.vercel.app/',
+        site_name: 'Movies',
     },
 };
 

@@ -26,7 +26,7 @@ export async function generateMetadata({ params }) {
         twitter: {
             cardType: 'summary_large_image',
         },
-        canonical: 'https://moviesprix.vercel.app/movies/' + id,
+        canonical: 'https://next-js-movie-project-flame.vercel.app/movies/' + id,
     };
 }
 

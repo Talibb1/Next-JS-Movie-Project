@@ -1,5 +1,5 @@
 const genrateSitemap = async (count) => {
-    const websiteUrl = 'https://moviesprix.vercel.app';
+    const websiteUrl = 'https://next-js-movie-project-flame.vercel.app/';
 
     const sitemapUrlsArray = [
         '/',
