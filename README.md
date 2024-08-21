@@ -20,7 +20,7 @@ To run the website locally, clone the repository and run the following commands:
     ```
 2. Navigate to the project directory
    ```bash
-    cd MoviesPrix
+    cd Next-JS-Movie-Project
     ```
 3. Install dependencies
    ```bash
