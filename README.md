@@ -36,12 +36,3 @@ To run the website locally, clone the repository and run the following commands:
     ```
 
 This will start the development server and the website will be available at http://localhost:3000.
-
-
-<h2>ScreenShot</h2>
-<div align="center">
-    <img src="./public/screenshot.png" alt="MoviesPrix" width="500" />
-</div>
-
-## Contributions
-If you would like to contribute to this project, please fork the repository and submit a pull request with your changes. All contributions are welcome and appreciated! 
